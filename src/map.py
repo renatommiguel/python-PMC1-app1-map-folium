@@ -1,9 +1,14 @@
-# try out
+""""
+https://www.udemy.com/course/the-python-mega-course/learn/lecture/7221278#overview
+lecture 130
+"""
+
 import folium
 import time
 import os
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
+print(f"dir_path:{dir_path}")
 
 
 def func_test():
